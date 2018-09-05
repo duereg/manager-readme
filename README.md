@@ -1,16 +1,18 @@
 # Matt's Manager README
 Welcome to the team! I’m so glad you are here.
 
-If you're reading this it's likely that I am either your manager or a prospective coworker. This readme should cover what to expect when working with me. One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my principles, and some details of how I act and react.
+If you're reading this it's likely that I am either your manager or a prospective coworker. This readme hopefully covers what to expect when working with me. One of the working relationships we need to define is ours.
 
 ## Notice
 This is a new document and still a work in progress. It’s meant to be documentation on me.
 
-Two reasons for this to exist
- - The creation has helped me identify my thoughts and values.
- - Hopefully this will help you understand me better and help us work together.
+Two reasons for this to exist:
+ - The creation has helped me identify my thoughts and values
+ - Hopefully this helps you understand me and help us work together
 
-Important: This is NOT meant as a replacement for actually getting to know each other.
+The following is a user guide for me and how I work. It captures what you can expect out of an average week working with me, how I like to work, my principles, and some details of how I act and react.
+
+Important: This is NOT meant as a replacement for getting to know each other.
 
 ## My Job
 I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the company. My management philosophy is one of [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership).
@@ -23,8 +25,8 @@ I’m here to help and support you, to set context for what you’re working on,
  - Foster positive team culture
 
 ## My Responsibility to You
- - Set you up for success and autonomy
- - Give you opportunties to grow your career
+ - Lay the foundation for your success and autonomy
+ - Give you opportunities to grow your career
  - Accept and act on feedback given
  - Be a shit umbrella for you
    - Everything you do right is your accomplishment
@@ -32,16 +34,16 @@ I’m here to help and support you, to set context for what you’re working on,
 
 # Core Values
 ## Be Respectful and Helpful
- - Respect and Value Diversity.
- - Have patience, be helpful, and foster empathy.
- - Assume the best and be easy to approach.
+ - Respect and Value Diversity
+ - Have patience, be helpful, and foster empathy
+ - Assume the best and be easy to approach
  - Everyone on the team has a voice and a vote
 
 ## Responsible, Responsive, Dependable
  - Write your code to live forever
  - Practice Incrementalism; Write small PR’s
  - Test Everything; TDD, Unit, Integration, Acceptance
- - Follow your work all the way through. You're responsible for the quality of your code.
+ - Follow your work all the way through. You're responsible for the quality of your code
  - Tooling > Diligence
  - Use Metrics & Logging; Evidence over Effort
 
@@ -66,9 +68,9 @@ I’m here to help and support you, to set context for what you’re working on,
  - Grow your expertise
  - Learn different technologies
  - Be ready to explore and try new things
- - It is fine to not understand a task. It is NOT OK to believe that you will never be able to understand it.
- - Hard work and a willingness to accept that you don’t know everything trounce any particular aptitude.
- - The ability to learn is a skill that you can choose to improve or let stagnate.
+ - It is fine to not understand a task. It is NOT OK to believe that you will never be able to understand it
+ - Hard work and a willingness to accept that you don’t know everything trounce any particular aptitude
+ - The ability to learn is a skill that you can choose to improve or let stagnate
 
 ## Document everything
  - Document your code
@@ -85,21 +87,21 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 # Working Together
 
 ## My Assumptions
- -  You’re very good at your job.
+ -  You’re very good at your job
 
     You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either:
       1) Trying to gather context.
       2) Trying to be a sounding board, rubber duck, or devils advocate.
 
- - I’m not good at your job.
+ - I’m not good at your job
 
     You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
 
- - You’ll let me know if you can’t do your job.
+ - You’ll let me know if you can’t do your job
 
     One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
 
- - You feel safe debating with me.
+ - You feel safe debating with me
 
     I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate. I've read that feedback requires three attributes:
 
@@ -110,44 +112,44 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
     Please let me know if I’m doing poorly on any of these attributes. I’ll return the favor!
 
 ## How can I help you?
- - Provide context.
+ - Provide context
 
     Most of my day is spent collecting, filtering and sharing context/information from across other projects, domains, and products. I’ll try to push information to you as much as I can but feel free to ask about anything else.
 
- - Provide an outside(ish) perspective.
+ - Provide an outside(ish) perspective
 
     I won’t be working on your project day to day but will be close enough to have informed thoughts.
 
- - Cheer.
+ - Cheer
 
     I will celebrate your successes. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share the things which make you proud, and I'll cheer/share appropriately.
 
- - Firefight.
+ - Firefight
 
     If my favorite opening line is "I could use a hand with...", my second favorite is "I screwed up: ...". A mistake, if shared, becomes a challenge; if hidden, becomes a failure.
 
- - Other.
+ - Other
 
     Please let me know how else I can help.
 
 ## How can you help me?
- - Do amazing work.
+ - Do amazing work
 
     This is the expectation. Let me know if there is something preventing you from accomplishing this.
 
- - Disagree with me.
+ - Disagree with me
 
     The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos . I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine. Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
- - Tell me when I screw up.
+ - Tell me when I screw up
 
     This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again. I am going to ask you for feedback in our 1:1s. I am never going to stop doing this no matter how many times you say you have no feedback for me.
 
- - Communicate.
+ - Communicate
 
     One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
 
- - Bring your friends.
+ - Bring your friends
 
     We’re growing the team and you know who you want to work with.
 
