@@ -125,7 +125,8 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - Firefight
 
-    If my favorite opening line is "I could use a hand with...", my second favorite is "I screwed up: ...". A mistake, if shared, becomes a challenge; if hidden, becomes a failure.
+    If my favorite opening line is "I could use a hand with...", my second favorite is "I screwed up: ...".
+      - A mistake, if shared, becomes a challenge; if hidden, becomes a failure.
 
  - Other
 
