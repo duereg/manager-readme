@@ -3,7 +3,7 @@ Welcome to the team! I’m so glad you are here.
 
 If you're reading this it's likely that I am either your manager or a prospective coworker. This readme should cover what to expect when working with me. One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my principles, and some details of how I act and react.
 
-# Notice
+## Notice
 This is a new document and still a work in progress. It’s meant to be documentation on me.
 
 Two reasons for this to exist
@@ -12,7 +12,7 @@ Two reasons for this to exist
 
 Important: This is NOT meant as a replacement for actually getting to know each other.
 
-# My Job
+## My Job
  - Work with Product and Delivery Management to come up with long-term vision for the team
  - Responsible for the long term health of all products in this area
  - Represent our area to the rest of the organization
@@ -20,7 +20,7 @@ Important: This is NOT meant as a replacement for actually getting to know each 
  - Attract, retain and grow high performing individuals
  - Foster positive team culture
 
-# My Responsibility to You
+## My Responsibility to You
  - Set you up for success and autonomy
  - Give you opportunties to grow your career
  - Accept and act on feedback given
