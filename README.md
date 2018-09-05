@@ -137,6 +137,16 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
     We’re growing the team and you know who you want to work with.
 
+## My Calendar
+I go to a lot of meetings. My calendar is deliberately publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
+
+Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, send me a message, we don’t need to wait for our next scheduled 1:1.
+
+Feel free to put something in my calendar, don’t feel like you need to ask first.
+Is my calendar full? Send me a message and I’ll very likely be able to move something around.
+
+# Working Here
+
 ## Our Average Week
 Every morning we'll have a brief 5-10 minute standup where everyone will discuss what they've been working on, what they will work on, and anything that is blocking them.
 
@@ -145,14 +155,6 @@ We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting
 We’ll have a team planner with your peers every two weeks for 30-60 minutes. We'll discuss what we've been working on briefly, and what we're planning on working on the next two weeks.
 
 We'll also have a team retro every two weeks for about an hour, where we discuss what has and hasn't been working for us as a team. Every retro should have actionable items that we follow up on.
-
-## My Calendar
-I go to a lot of meetings. My calendar is deliberately publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
-
-Heard a rumour? Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, stop me in the hall, send me a message, we don’t need to wait for our next scheduled 1:1.
-
-Feel free to put something in my calendar, don’t feel like you need to ask first.
-Is my calendar full? Send me a message and I’ll very likely be able to move something around.
 
 ## Scheduling Meetings
 If you schedule a meeting, you must provide at a minimum:
