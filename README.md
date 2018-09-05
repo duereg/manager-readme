@@ -13,6 +13,8 @@ Two reasons for this to exist
 Important: This is NOT meant as a replacement for actually getting to know each other.
 
 ## My Job
+I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the company. My management philosophy is one of (servant leadership)[https://en.wikipedia.org/wiki/Servant_leadership].
+
  - Work with Product and Delivery Management to come up with long-term vision for the team
  - Responsible for the long term health of all products in this area
  - Represent our area to the rest of the organization
