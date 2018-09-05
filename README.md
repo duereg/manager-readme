@@ -68,7 +68,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Learn different technologies
  - Be ready to explore and try new things
  - It is fine to not understand a task. It is NOT OK to believe that you will never be able to understand it
- - Hard work and a willingness to accept that you don’t know everything trounce any particular aptitude
+ - Working hard and a willingness to accept that you don’t know everything trounce any particular aptitude
  - The ability to learn is a skill that you can choose to improve or let stagnate
 
 ## Document everything
@@ -138,7 +138,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - Disagree with me
 
-    The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos . I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine. Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
+    The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos. I’ll challenge your ideas with the goal of coming to the best possible solution; I hope you’ll challenge mine. Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
  - Tell me when I screw up
 
