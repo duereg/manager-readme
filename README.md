@@ -157,14 +157,14 @@ We’ll have a team planner with your peers every two weeks for 30-60 minutes. W
 We'll also have a team retro every two weeks for about an hour, where we discuss what has and hasn't been working for us as a team. Every retro should have actionable items that we follow up on.
 
 ## Scheduling Meetings
-If you schedule a meeting, you must provide at a minimum:
+If you schedule a meeting, provide at a minimum:
 
 1) A hangout link or similar to the meeting for remote callers
 2) An agenda of what we're talking about
 3) Any related documents, slidedecks, etc that will be used in the meeting
 
 ## Meeting Protocol
-Put away your phone. If your laptop is open, you're taking notes or running the meeting.
+Put away your phone. Only open your laptop if you're taking notes or running the meeting.
 
 If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
 
