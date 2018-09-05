@@ -28,7 +28,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Accept and act on feedback given
 
 # Core Values
-## Be respectful and helpful to others
+## Be Respectful and Helpful
  - Respect and Value Diversity.
  - Have patience, be helpful, and foster empathy.
  - Assume the best and be easy to approach.
@@ -58,11 +58,14 @@ I’m here to help and support you, to set context for what you’re working on,
  - Have strong opinions weakly held
  - Voice your thoughts and disagreements
 
-## Keep learning
+## Keep Learning
  - Provide and Accept Mentorship
  - Grow your expertise
  - Learn different technologies
  - Be ready to explore and try new things
+ - It is fine to not understand a task. It is NOT OK to believe that you will never be able to understand it.
+ - Hard work and a willingness to accept that you don’t know everything trounce any particular aptitude.
+ - The ability to learn is a skill that you can choose to improve or let stagnate.
 
 ## Document everything
  - Document your code
@@ -152,7 +155,8 @@ Is my calendar full? Send me a message and I’ll very likely be able to move so
 ## Our Average Week
 Every morning we'll have a brief 5-10 minute standup where everyone will discuss what they've been working on, what they will work on, and anything that is blocking them.
 
-We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance as well as updates. Use our private Slack channel to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump it in that channel.
+We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance as well as updates. Use our private Slack channel to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump it in that channel. During 1'1s we will go through your agenda first and if time permits I will have some questions. First and foremost these meetings are for you.
+Urgent matters should not wait for a 1:1.
 
 We’ll have a team planner with your peers every two weeks for 30-60 minutes. We'll discuss what we've been working on briefly, and what we're planning on working on the next two weeks.
 
