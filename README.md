@@ -40,14 +40,13 @@ I’m here to help and support you, to set context for what you’re working on,
 
 ## Responsible, Responsive, Dependable
  - Write your code to live forever
- - Practice Incrementalism; Write small PR’s
- - Test Everything; TDD, Unit, Integration, Acceptance
+ - Practice incrementalism; write small PR’s
+ - Test everything; TDD, Unit, Integration, Acceptance
  - Follow your work all the way through. You're responsible for the quality of your code
- - Tooling > Diligence
- - Use Metrics & Logging; Evidence over Effort
+ - Tooling > Diligence; Use Metrics & Logging; Evidence over Effort
 
 ## Be Resourceful
- - Google first, Ask Questions, Don’t reinvent the wheel. Do your research
+ - Google first, ask questions, don’t reinvent the wheel. Research your problems before you start
  - Be efficient with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
    - Nothing is precious. Especially code I wrote
@@ -57,13 +56,13 @@ I’m here to help and support you, to set context for what you’re working on,
  - Collaborate with your coworkers and teammates
  - Pairing > Not Pairing
  - Discuss, Cooperate, Pair
- - Give & Receive Feedback in an impactful way
+ - Give & receive feedback in an impactful way
  - Debate impersonally but nicely
  - Have strong opinions weakly held
  - Voice your thoughts and disagreements
 
 ## Keep Learning
- - Provide and Accept Mentorship
+ - Provide and accept mentorship
  - Grow your expertise
  - Learn different technologies
  - Be ready to explore and try new things
@@ -84,7 +83,6 @@ I do not expect that you are going to work on the weekend. I might occasionally 
 Life > work. Make the balance work. I take vacations. You should, too. We only get one life. Don’t burn out. Take time off.
 
 # Working Together
-
 ## My Assumptions
  -  You’re very good at your job
 
@@ -162,12 +160,10 @@ Feel free to put something in my calendar, don’t feel like you need to ask fir
 Is my calendar full? Send me a message and I’ll very likely be able to move something around.
 
 # Working Here
-
 ## Our Average Week
 Every morning we'll have a brief 5-10 minute standup where everyone will discuss what they've been working on, what they will work on, and anything that is blocking them.
 
-We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance as well as updates. Use our private Slack channel to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump it in that channel. During 1:1s we will go through your agenda first and if time permits I will have some questions. First and foremost these meetings are for you.
-Urgent matters should not wait for a 1:1.
+We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance as well as updates. Use our private Slack channel to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump it in that channel. During 1:1s we will go through your agenda first and if time permits I will have some questions. First and foremost these meetings are for you. Urgent matters should not wait for a 1:1.
 
 We’ll have a team planner with your peers every two weeks for 30-60 minutes. We'll discuss what we've been working on briefly, and what we're planning on working on the next two weeks.
 
