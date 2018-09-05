@@ -86,7 +86,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
     You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either:
       1) Trying to gather context.
-      2) Trying to be a sounding board and rubber duck.
+      2) Trying to be a sounding board, rubber duck, or devils advocate.
 
  - I’m not good at your job.
 
@@ -98,7 +98,13 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - You feel safe debating with me.
 
-    I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate.
+    I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate. I've read that feedback requires three attributes:
+
+      - Safety (you should feel safe to give and receive candid feedback)
+      - Effort (neither you nor I should feel defensive about the feedback)
+      - Benefit (giving/receiving feedback should have impact)
+
+    Please let me know if I’m doing poorly on any of these attributes. I’ll return the favor!
 
 ## How can I help you?
  - Provide context.
@@ -163,7 +169,7 @@ We’ll have a team planner with your peers every two weeks for 30-60 minutes. W
 We'll also have a team retro every two weeks for about an hour, where we discuss what has and hasn't been working for us as a team. Every retro should have actionable items that we follow up on.
 
 ## Scheduling Meetings
-If you schedule a meeting, provide at a minimum:
+If you schedule a meeting, please provide at a minimum:
 
 1) A hangout link or similar to the meeting for remote callers
 2) An agenda of what we're talking about
