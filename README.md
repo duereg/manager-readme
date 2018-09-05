@@ -26,6 +26,9 @@ I’m here to help and support you, to set context for what you’re working on,
  - Set you up for success and autonomy
  - Give you opportunties to grow your career
  - Accept and act on feedback given
+ - Be a shit umbrella for you
+   - Everything you do right is your accomplishment
+   - Everything you do wrong is my responsibility
 
 # Core Values
 ## Be Respectful and Helpful
