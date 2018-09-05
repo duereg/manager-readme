@@ -77,49 +77,65 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 # Working Together
 
 ## My Assumptions
-### You’re very good at your job.
-You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either: a) Trying to gather context. Or b) Trying to be a sounding board and rubber duck.
+ -  You’re very good at your job.
 
-### I’m not good at your job.
-You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
+    You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either:
+      1) Trying to gather context.
+      2) Trying to be a sounding board and rubber duck.
 
-### You’ll let me know if you can’t do your job.
-One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
+ - I’m not good at your job.
 
-### You feel safe debating with me.
-I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate.
+    You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
+
+ - You’ll let me know if you can’t do your job.
+
+    One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
+
+ - You feel safe debating with me.
+
+    I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate.
 
 ## How can I help you?
-### Provide context.
-Most of my day is spent collecting, filtering and sharing context/information from across other projects, domains, and products. I’ll try to push information to you as much as I can but feel free to ask about anything else.
+ - Provide context.
 
-### Provide an outside(ish) perspective.
-I won’t be working on your project day to day but will be close enough to have informed thoughts.
+    Most of my day is spent collecting, filtering and sharing context/information from across other projects, domains, and products. I’ll try to push information to you as much as I can but feel free to ask about anything else.
 
-### Cheer.
-I will celebrate your successes. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share the things which make you proud, and I'll cheer/share appropriately.
+ - Provide an outside(ish) perspective.
 
-### Firefight.
-If my favorite opening line is "I could use a hand with...", my second favorite is "I screwed up: ...". A mistake, if shared, becomes a challenge; if hidden, becomes a failure.
+    I won’t be working on your project day to day but will be close enough to have informed thoughts.
 
-### Other.
-Please let me know how else I can help.
+ - Cheer.
+
+    I will celebrate your successes. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share the things which make you proud, and I'll cheer/share appropriately.
+
+ - Firefight.
+
+    If my favorite opening line is "I could use a hand with...", my second favorite is "I screwed up: ...". A mistake, if shared, becomes a challenge; if hidden, becomes a failure.
+
+ - Other.
+
+    Please let me know how else I can help.
 
 ## How can you help me?
-### Do amazing work.
-This is the expectation. Let me know if there is something preventing you from accomplishing this.
+ - Do amazing work.
 
-### Disagree with me.
-The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos . I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine. Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
+    This is the expectation. Let me know if there is something preventing you from accomplishing this.
 
-### Tell me when I screw up.
-This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again. I am going to ask you for feedback in our 1:1s. I am never going to stop doing this no matter how many times you say you have no feedback for me.
+ - Disagree with me.
 
-### Communicate.
-One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
+    The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos . I’ll challenge your ideas with the goal of coming to the best possible solution, I hope you’ll challenge mine. Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
-### Bring your friends.
-We’re growing the team and you know who you want to work with.
+ - Tell me when I screw up.
+
+    This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again. I am going to ask you for feedback in our 1:1s. I am never going to stop doing this no matter how many times you say you have no feedback for me.
+
+ - Communicate.
+
+    One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
+
+ - Bring your friends.
+
+    We’re growing the team and you know who you want to work with.
 
 ## Our Average Week
 Every morning we'll have a brief 5-10 minute standup where everyone will discuss what they've been working on, what they will work on, and anything that is blocking them.
