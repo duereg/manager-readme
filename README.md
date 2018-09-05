@@ -1,13 +1,13 @@
 # Matt's Manager README
 Welcome to the team! I’m so glad you are here.
 
-If you're reading this it's likely that I am either your manager, or a prospective team member. This readme should cover some of what to expect when working with me. One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my principles, and some details of how I act and react.
+If you're reading this it's likely that I am either your manager or a prospective coworker. This readme should cover what to expect when working with me. One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my principles, and some details of how I act and react.
 
 # Notice
 This is a new document and still a work in progress. It’s meant to be documentation on me.
 
 Two reasons for this to exist
- - The creation has helped me identify and refine my thoughts and values.
+ - The creation has helped me identify my thoughts and values.
  - Hopefully this will help you understand me better and help us work together.
 
 Important: This is NOT meant as a replacement for actually getting to know each other.
