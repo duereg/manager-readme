@@ -44,7 +44,7 @@ Important: This is NOT meant as a replacement for actually getting to know each 
  - Google first, Ask Questions, Don’t reinvent the wheel. Do your research
  - Be efficient with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
-  - Nothing is precious. Especially code I wrote
+   - Nothing is precious. Especially code I wrote
  - Follow the Boy Scout Rule
 
 ## Be Part Of The Team
