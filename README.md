@@ -189,4 +189,4 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 # Miscellanous Things to Know
 When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-I think my job in primarily to be interrupted during the day. If I'm super busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is way more valuable than mine.
+I think my job is primarily to be interrupted during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
