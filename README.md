@@ -25,7 +25,7 @@ I’m here to help and support you, to set context for what you’re working on,
    - Everything you do wrong is my responsibility
 
 ### My Responsibilities to the Company
- - Work with Product and Delivery Management to come up with long-term vision for the team
+ - Work with product and delivery management to come up with long-term vision for the team
  - Responsible for the long term health of all products in this area
  - Represent our area to the rest of the organization
  - Manage cross project priorities and ensure we have the right people working on the right projects
@@ -34,7 +34,7 @@ I’m here to help and support you, to set context for what you’re working on,
 
 # <a name="values"></a> Core Values
 ### Be Respectful and Helpful
- - Respect and Value Diversity
+ - Respect and value diversity
  - Have patience, be helpful, and foster empathy
  - Assume the best and be easy to approach
  - Everyone on the team has a voice and a vote
@@ -48,10 +48,10 @@ I’m here to help and support you, to set context for what you’re working on,
 
 ### Be Resourceful
  - Google first, ask questions, don’t reinvent the wheel. Research your problems before you start
- - Be efficient with your time so you get things done
+ - Be effective with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
    - Nothing is precious. Especially code I wrote
- - Follow the Boy Scout Rule
+ - Follow the Boy Scout Rule aka "Leave things better than when you found it"
 
 ### Be Part Of The Team
  - Collaborate with your coworkers and teammates
