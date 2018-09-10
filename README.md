@@ -20,7 +20,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Lay the foundation for your success and autonomy
  - Give you opportunities to grow your career
  - Accept and act on feedback given
- - Be a shit umbrella for you
+ - Be a problem umbrella for you
    - Everything you do right is your accomplishment
    - Everything you do wrong is my responsibility
 
@@ -55,8 +55,7 @@ I’m here to help and support you, to set context for what you’re working on,
 
 ### Be Part Of The Team
  - Collaborate with your coworkers and teammates
- - Pairing > Not Pairing
- - Discuss, Cooperate, Pair
+ - Discuss, Cooperate, Pair. Pairing > Not Pairing
  - Give & receive feedback in an impactful way
  - Debate impersonally but nicely
  - Have strong opinions weakly held
@@ -88,8 +87,8 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
  -  You’re very good at your job
 
     You wouldn’t be here if you weren’t. If it feels like I’m questioning you it’s because I’m either:
-      1) Trying to gather context.
-      2) Trying to be a sounding board, rubber duck, or devils advocate.
+      - Trying to gather context.
+      - Trying to be a sounding board, rubber duck, or devils advocate.
 
  - I’m not good at your job
 
@@ -104,7 +103,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
     I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate. I've read that feedback requires three attributes:
 
       - Safety (you should feel safe to give and receive candid feedback)
-      - Effort (neither you nor I should feel defensive about the feedback)
+      - Effort (neither you nor I should feel defensive about the feedback, and feedback should be easy to give)
       - Benefit (giving/receiving feedback should have impact)
 
     Please let me know if I’m doing poorly on any of these attributes. I’ll return the favor!
@@ -190,3 +189,5 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
 I think my job is primarily to be interrupted during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
+
+I love to garden. I love plants and have a hard time not buying new ones when I see them. I have a dog and used to volunteer at a dog shelter. I drink too much coffee. 
