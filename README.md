@@ -183,11 +183,11 @@ If I am attending a meeting, I’d prefer starting on time. If I am running a me
 
 If you send me a presentation deck before a meeting, I will usually read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
-If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
+If a meeting completes its purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the purpose won’t be achieved in the allocated time, let’s end the meeting early and determine how to finish the meeting later.
 
 # Miscellanous Things to Know
 When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-I think my job is primarily to be interrupted during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
+My job is a series of interruptions during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
 
-I love to garden. I love plants and have a hard time not buying new ones when I see them. I have a dog and used to volunteer at a dog shelter. I drink too much coffee. 
+I love to garden. I love plants and have a hard time not buying new ones when I see them. I have a dog and used to volunteer at a dog shelter. I drink too much coffee. I'm grumpy and slow if I haven't had coffee. 
