@@ -66,7 +66,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Grow your expertise
  - Learn different technologies
  - Be ready to explore and try new things
- - It is fine to not understand a task. It is NOT OK to believe that you will never be able to understand it
+ - It's fine to not understand a task. It's NOT OK to believe that you will never be able to understand it
  - Working hard and a willingness to accept that you don’t know everything trounce any particular aptitude
  - The ability to learn is a skill that you can choose to improve or let stagnate
 
@@ -96,11 +96,11 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - You’ll let me know if you can’t do your job
 
-    One of my main responsibilities is ensuring that you’re set up for success. Occasionally things slip through the cracks and I won’t know I’m letting you down.
+    One of my main responsibilities is ensuring that you’re set up for success. Things slip through the cracks and I won’t know I’m letting you down.
 
  - You feel safe debating with me
 
-    I find that ideas improve by being examined from all angles. If it sounds like I’m disagreeing I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate. I've read that feedback requires three attributes:
+    Examining ideas from all angles improves them. If it sounds like I’m disagreeing with something I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate. I've read that feedback requires three attributes:
 
       - Safety (you should feel safe to give and receive candid feedback)
       - Effort (neither you nor I should feel defensive about the feedback, and feedback should be easy to give)
@@ -111,7 +111,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 ### How can I help you?
  - Provide context
 
-    Most of my day is spent collecting, filtering and sharing context/information from across other projects, domains, and products. I’ll try to push information to you as much as I can but feel free to ask about anything else.
+    I spend most of my day collecting, filtering and sharing context/information from across other projects, domains, and products. I’ll try to push information to you as much as I can but feel free to ask about anything else.
 
  - Provide an outside(ish) perspective
 
@@ -119,12 +119,12 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - Cheer
 
-    I will celebrate your successes. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share the things which make you proud, and I'll cheer/share appropriately.
+    I will celebrate your successes. If you're not a person who self-promotes, please let me do it for you. Tell me when things go well, share what makes you proud, and I'll cheer/share appropriately.
 
  - Firefight
 
     If my favorite opening line is "I could use a hand with...", my second favorite is "I screwed up: ...".
-      - A mistake, if shared, becomes a challenge; if hidden, becomes a failure.
+      - *A mistake, if shared, becomes a challenge; if hidden, becomes a failure.*
 
  - Other
 
@@ -141,7 +141,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - Tell me when I screw up
 
-    This is very important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again. I am going to ask you for feedback in our 1:1s. I am never going to stop doing this no matter how many times you say you have no feedback for me.
+    This is important. I screw up and sometimes don’t notice. I need to know or I’ll likely do it again. I am going to ask you for feedback in our 1:1s. I am never going to stop doing this no matter how many times you say you have no feedback for me.
 
  - Communicate
 
@@ -152,7 +152,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
     We’re growing the team and you know who you want to work with.
 
 ### My Calendar
-I go to a lot of meetings. My calendar is deliberately publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
+I go to a lot of meetings. My calendar is deliberately publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees are hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
 Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, send me a message, we don’t need to wait for our next scheduled 1:1.
 
@@ -163,14 +163,14 @@ Is my calendar full? Send me a message and I’ll very likely be able to move so
 ### Our Average Week
 Every morning we'll have a brief 5-10 minute standup where everyone will discuss what they've been working on, what they will work on, and anything that is blocking them.
 
-We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance as well as updates. Use our private Slack channel to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump it in that channel. During 1:1s we will go through your agenda first and if time permits I will have some questions. First and foremost these meetings are for you. Urgent matters should not wait for a 1:1.
+We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance and updates. Use our private Slack channel to capture future topics for our 1:1s, to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump it in that channel. During 1:1s we will go through your agenda first and if time permits I will have some questions. These meetings are for you. Urgent matters should not wait for a 1:1.
 
 We’ll have a team planner with your peers every two weeks for 30-60 minutes. We'll discuss what we've been working on briefly, and what we're planning on working on the next two weeks.
 
 We'll also have a team retro every two weeks for about an hour, where we discuss what has and hasn't been working for us as a team. Every retro should have actionable items that we follow up on.
 
 ### Scheduling Meetings
-If you schedule a meeting, please provide at a minimum:
+If you schedule a meeting, please provide:
 
 1) A hangout link or similar to the meeting for remote callers
 2) An agenda of what we're talking about
@@ -190,4 +190,4 @@ When I ask you to do something that feels poorly defined you should ask me for b
 
 My job is a series of interruptions during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
 
-I love to garden. I love plants and have a hard time not buying new ones when I see them. I have a dog and used to volunteer at a dog shelter. I drink too much coffee. I'm grumpy and slow if I haven't had coffee. 
+I love to garden. I love plants and have a hard time not buying new ones when I see them. I have a dog and used to volunteer at a dog shelter. I drink too much coffee. I'm grumpy and slow if I haven't had coffee.
