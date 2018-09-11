@@ -3,6 +3,16 @@ Welcome to the team! I’m so glad you are here.
 
 If you're reading this it's likely that I am either your manager or a prospective coworker. This readme hopefully covers what to expect when working with me, how I like to work, my principles, and some details of how I act and react. One of the working relationships we need to define is ours.
 
+# A Little About Me
+
+When I'm not coding or managing, I love to garden. I love plants and have a hard time not buying new ones when I see them. I've brought a bunch of biggish plants into the office to brighten up the space.
+
+I have a dog and used to volunteer at a dog shelter.
+
+I drink too much coffee. I'm grumpy and slow if I haven't had coffee.
+
+I like to cook but I'm a complete amateur. I make an OK breakfast.
+
 # Overview
 This is a new document and still a work in progress. It’s meant to be documentation on me.
 
@@ -98,9 +108,9 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
     One of my main responsibilities is ensuring that you’re set up for success. Things slip through the cracks and I won’t know I’m letting you down.
 
- - You feel safe debating with me
+ - You feel safe talking with me
 
-    Examining ideas from all angles improves them. If it sounds like I’m disagreeing with something I’m most likely just playing devil’s advocate. This does rely on us being able to have a safe debate. I've read that feedback requires three attributes:
+    Examining ideas from all angles improves them. This relies on us being able to have safe communications. I've read that feedback requires three attributes:
 
       - Safety (you should feel safe to give and receive candid feedback)
       - Effort (neither you nor I should feel defensive about the feedback, and feedback should be easy to give)
@@ -137,7 +147,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - Disagree with me
 
-    The best solutions comes from a healthy level of debate. We need to be able to separate our ideas from our egos. I’ll challenge your ideas with the goal of coming to the best possible solution; I hope you’ll challenge mine. Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
+    The best solutions comes from a healthy level of communication. We need to be able to separate our ideas from our egos. I’ll challenge your ideas with the goal of coming to the best possible solution; I hope you’ll challenge mine. Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
  - Tell me when I screw up
 
@@ -146,6 +156,8 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
  - Communicate
 
     One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
+
+    The best way for me to retain information is to read it. If you have something that is nuaunced and needs a detailed opinion, you'd be best served writing down your thoughts and emailing them to me. It's easy for me to miss details in a hallway conversation.
 
  - Bring your friends
 
@@ -189,5 +201,3 @@ If a meeting completes its purpose before it’s scheduled to end, let’s give 
 When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
 My job is a series of interruptions during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
-
-I love to garden. I love plants and have a hard time not buying new ones when I see them. I have a dog and used to volunteer at a dog shelter. I drink too much coffee. I'm grumpy and slow if I haven't had coffee.
