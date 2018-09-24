@@ -11,7 +11,7 @@ I have a dog and used to volunteer at a dog shelter.
 
 I drink too much coffee. I'm grumpy and slow if I haven't had coffee.
 
-I like to cook but I'm a complete amateur. I make an OK breakfast.
+I like to cook but I'm a complete amateur. I make an OK breakfast. I lived in Australia for a bit and acquired a taste for Vegemite.
 
 # Overview
 This is a new document and still a work in progress. It’s meant to be documentation on me.
