@@ -50,21 +50,21 @@ I’m here to help and support you, to set context for what you’re working on,
  - Everyone on the team has a voice and a vote
 
 ### Responsible, Responsive, Dependable
- - Write your code to live forever
+ - Write code to live forever
  - Practice incrementalism; write small PR’s
  - Test everything; TDD, Unit, Integration, Acceptance
- - Follow your work all the way through. You're responsible for the quality of your code
+ - Follow work all the way through. Be responsible for the quality of your code
  - Tooling > Diligence; Use Metrics & Logging; Evidence over Effort
 
 ### Be Resourceful
- - Google first, ask questions, don’t reinvent the wheel. Research your problems before you start
- - Be effective with your time so you get things done
+ - Google first, ask questions, don’t reinvent the wheel. Research problems before starting
+ - Be effecient with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
    - Nothing is precious. Especially code I wrote
  - Follow the Boy Scout Rule aka "Leave things better than when you found it"
 
 ### Be Part Of The Team
- - Collaborate with your coworkers and teammates
+ - Collaborate with coworkers and teammates
  - Discuss, Cooperate, Pair. Pairing > Not Pairing
  - Give & receive feedback in an impactful way
  - Debate impersonally but nicely
@@ -73,11 +73,11 @@ I’m here to help and support you, to set context for what you’re working on,
 
 ### Keep Learning
  - Provide and accept mentorship
- - Grow your expertise
+ - Expertise grows through effort, not time
  - Learn different technologies
  - Be ready to explore and try new things
  - It's fine to not understand a task. It's NOT OK to believe that you will never be able to understand it
- - Working hard and a willingness to accept that you don’t know everything trounce any particular aptitude
+ - Work hard and accept that you don’t know everything. Those two things trounce any particular aptitude
  - The ability to learn is a skill that you can choose to improve or let stagnate
 
 ### Document everything
