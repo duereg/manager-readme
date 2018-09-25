@@ -68,9 +68,8 @@ I’m here to help and support you, to set context for what you’re working on,
  - Collaborate with coworkers and teammates
  - Discuss, Cooperate, Pair. Pairing > Not Pairing
  - Give & receive feedback in an impactful way
- - Debate impersonally but nicely
  - Have strong opinions weakly held
- - Voice your thoughts and disagreements
+ - Voice your thoughts and disagreements *nicely*
 
 ### Keep Learning
  - Provide and accept mentorship
