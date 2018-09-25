@@ -62,6 +62,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Be creative, don’t be boxed in by previous decisions
    - Nothing is precious. Especially code I wrote
  - Follow the Boy Scout Rule aka "Leave things better than when you found it"
+   - *I believe in the compounding awesomeness of continually fixing small things*
 
 ### Be Part Of The Team
  - Collaborate with coworkers and teammates
