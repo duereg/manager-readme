@@ -43,20 +43,20 @@ I’m here to help and support you, to set context for what you’re working on,
  - Foster positive team culture
 
 # <a name="values"></a> Core Values
-### Be Respectful and Helpful
+### Respectful & Helpful
  - Respect and value diversity
  - Have patience, be helpful, and foster empathy
  - Assume the best and be easy to approach
  - Everyone on the team has a voice and a vote
 
-### Responsible, Responsive, Dependable
+### Responsible & Dependable
  - Write code to live forever
  - Practice incrementalism; write small PR’s
  - Test everything; TDD, Unit, Integration, Acceptance
  - Follow work all the way through. Be responsible for the quality of your code
  - Tooling > Diligence; Use Metrics & Logging; Evidence over Effort
 
-### Be Resourceful
+### Resourceful
  - Google first, ask questions, don’t reinvent the wheel. Research problems before starting
  - Be effecient with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
@@ -64,14 +64,14 @@ I’m here to help and support you, to set context for what you’re working on,
  - Follow the Boy Scout Rule aka "Leave things better than when you found it"
    - *I believe in the compounding awesomeness of continually fixing small things*
 
-### Be Part Of The Team
+### Team Focused
  - Collaborate with coworkers and teammates
  - Discuss, Cooperate, Pair. Pairing > Not Pairing
  - Give & receive feedback in an impactful way
  - Have strong opinions weakly held
- - Voice your thoughts and disagreements *nicely*
+ - Voice thoughts and disagreements *nicely*
 
-### Keep Learning
+### Inquisitive
  - Provide and accept mentorship
  - Expertise grows through effort, not time
  - Learn different technologies
