@@ -81,9 +81,12 @@ I’m here to help and support you, to set context for what you’re working on,
  - The ability to learn is a skill that you can choose to improve or let stagnate
 
 ### Document everything
- - Document your code
- - Document your processes
- - Document your inputs and your outputs
+ - Document 
+   - your daily activities
+   - your code
+   - your problems
+   - your processes
+   - your inputs and outputs
 
 ### Work/Life Balance
 Feel free to message me at any time. I might not respond immediately but I appreciate the communication.
