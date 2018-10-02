@@ -55,6 +55,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Test everything; TDD, Unit, Integration, Acceptance
  - Follow work all the way through. Be responsible for the quality of your code
  - Tooling > Diligence; Use Metrics & Logging; Evidence over Effort
+ - A broken build is a production outage; we lock the doors until it is fixed
 
 ### Resourceful
  - Google first, ask questions, don’t reinvent the wheel. Research problems before starting
