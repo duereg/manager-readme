@@ -42,7 +42,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Attract, retain and grow high performing individuals
  - Foster positive team culture
 
-# <a name="values"></a> Core Values
+# <a name="values"></a> Values I Love
 ### Respectful & Helpful
  - Respect and value diversity
  - Have patience, be helpful, and foster empathy
