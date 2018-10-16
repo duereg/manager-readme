@@ -64,6 +64,7 @@ I’m here to help and support you, to set context for what you’re working on,
    - Nothing is precious. Especially code I wrote
  - Follow the Boy Scout Rule aka "Leave things better than when you found it"
    - *I believe in the compounding awesomeness of continually fixing small things*
+ - Nothing is impossible but some things shouldn't be done. 
 
 ### Team Focused
  - Collaborate with coworkers and teammates
