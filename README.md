@@ -31,16 +31,15 @@ I’m here to help and support you, to set context for what you’re working on,
  - Give you opportunities to grow your career
  - Accept and act on feedback given
  - Be a problem umbrella for you
-   - Everything you do right is your accomplishment
-   - Everything you do wrong is my responsibility
+ - Foster positive team culture
+ - Ensure we have the right people working on the right projects
 
 ### My Responsibilities to the Company
- - Work with product and delivery management to come up with long-term vision for the team
+ - Work with other managers to come up with long-term vision for the team
  - Responsible for the long term health of all products in this area
- - Represent our area to the rest of the organization
- - Manage cross project priorities and ensure we have the right people working on the right projects
+ - Represent our team to the rest of the organization
+ - Manage cross project priorities
  - Attract, retain and grow high performing individuals
- - Foster positive team culture
 
 # <a name="values"></a> Values I Love
 ### Respectful & Helpful
