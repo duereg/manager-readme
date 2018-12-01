@@ -21,7 +21,7 @@ Three reasons for this to exist:
  - Hopefully this helps you understand me and help us [work together](#together)
  - It captures what you can expect out of an average week [working here](#working)
 
-**Important**: *This is NOT meant as a replacement for getting to know each other.*
+**Important**: *This is NOT meant as a replacement for getting to know each other. It is also not a set of excuses for bad behavior. I don't get to be a jerk because I warned you in advance.*
 
 # <a name="responsibilities"></a> My Responsibilities
 ### My Responsibility to You
@@ -195,7 +195,7 @@ If you schedule a meeting, please provide:
 ### Meeting Protocol
 Put away your phone. Only open your laptop if you're taking notes or running the meeting.
 
-If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
+If I am attending a meeting, I’d prefer starting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
 
 If you send me a presentation deck before a meeting, I will usually read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
@@ -204,4 +204,4 @@ If a meeting completes its purpose before it’s scheduled to end, let’s give 
 # Miscellanous Things to Know
 When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-My job is a series of interruptions during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in the café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
+My job is a series of interruptions during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in a café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
