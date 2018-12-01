@@ -1,7 +1,7 @@
 # Matt's Manager README
 Welcome to the team! I’m so glad you are here.
 
-If you're reading this it's likely that I am either your manager or a prospective coworker. This readme hopefully covers what to expect when working with me, how I like to work, my principles, and some details of how I act and react. One of the working relationships we need to define is ours.
+If you're reading this it's likely that I am either your manager or a prospective coworker. One of the working relationships we need to define is ours.
 
 # A Little About Me
 
@@ -35,7 +35,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - Ensure we have the right people working on the right projects
 
 ### My Responsibilities to the Company
- - Work with other managers to come up with long-term vision for the team
+ - Work with other managers to come up with a long-term vision for the team
  - Responsible for the long term health of all products in this area
  - Represent our team to the rest of the organization
  - Manage cross project priorities
