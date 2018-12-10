@@ -9,7 +9,7 @@ When I'm not coding or managing, I love to garden. I love plants and have a hard
 
 I have a dog and used to volunteer at a dog shelter.
 
-I drink too much coffee. I'm grumpy and slow if I haven't had coffee.
+I drink too much coffee. I love coffee.
 
 I like to cook but I'm a complete amateur. I make an OK breakfast. I lived in Australia for a bit and acquired a taste for Vegemite.
 
@@ -21,7 +21,7 @@ Three reasons for this to exist:
  - Hopefully this helps you understand me and help us [work together](#together)
  - It captures what you can expect out of an average week [working here](#working)
 
-**Important**: *This is NOT meant as a replacement for getting to know each other. It is also not a set of excuses for bad behavior. I don't get to be a jerk because I warned you in advance.*
+**Important**: *This is NOT meant as a replacement for getting to know each other. It's also not a set of excuses for bad behavior. I don't get to be a jerk because I warned you in advance.*
 
 # <a name="responsibilities"></a> My Responsibilities
 ### My Responsibility to You
@@ -58,12 +58,12 @@ I’m here to help and support you, to set context for what you’re working on,
 
 ### Resourceful
  - Google first, ask questions, don’t reinvent the wheel. Research problems before starting
- - Be effecient with your time so you get things done
+ - Be efficient with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
    - Nothing is precious. Especially code I wrote
  - Follow the Boy Scout Rule aka "Leave things better than when you found it"
    - *I believe in the compounding awesomeness of continually fixing small things*
- - Nothing is impossible but some things shouldn't be done. 
+ - Nothing is impossible but some things shouldn't be done.
 
 ### Team Focused
  - Collaborate with coworkers and teammates
@@ -82,7 +82,7 @@ I’m here to help and support you, to set context for what you’re working on,
  - The ability to learn is a skill that you can choose to improve or let stagnate
 
 ### Document everything
- - Document 
+ - Document
    - your daily activities
    - your code
    - your problems
@@ -92,7 +92,7 @@ I’m here to help and support you, to set context for what you’re working on,
 ### Work/Life Balance
 Feel free to message me at any time. I might not respond immediately but I appreciate the communication.
 
-I do not expect that you are going to work on the weekend. I might occasionally email or slack on weekends, but it can always wait until work begins for you on Monday.
+I do not expect that you are going to work on the weekend. I might email or slack on weekends, but it can always wait until work begins for you on Monday.
 
 Life > work. Make the balance work. I take vacations. You should, too. We only get one life. Don’t burn out. Take time off.
 
@@ -106,7 +106,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
  - I’m not good at your job
 
-    You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas but I won’t override you.
+    You know best. I’ll work to provide necessary context and ask questions to help you vet your ideas.
 
  - You’ll let me know if you can’t do your job
 
@@ -173,13 +173,13 @@ I go to a lot of meetings. My calendar is deliberately publicly visible. If you 
 Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, send me a message, we don’t need to wait for our next scheduled 1:1.
 
 Feel free to put something in my calendar, don’t feel like you need to ask first.
-Is my calendar full? Send me a message and I’ll very likely be able to move something around.
+Is my calendar full? Send me a message and I’ll likely be able to move something around.
 
 # <a name="working"></a> Working Here
 ### Our Average Week
 Every morning we'll have a brief 5-10 minute standup where everyone will discuss what they've been working on, what they will work on, and anything that is blocking them.
 
-We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance and updates. Use our private Slack channel to capture future topics for our 1:1s, to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump it in that channel. During 1:1s we will go through your agenda first and if time permits I will have some questions. These meetings are for you. Urgent matters should not wait for a 1:1.
+We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance and updates. Edit our 1:1 calendar invite to capture future topics for our 1:1s and to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump into the calendar invite. During 1:1s we will go through your agenda first and if time permits I will have some questions. These meetings are for you. Urgent matters should not wait for a 1:1.
 
 We’ll have a team planner with your peers every two weeks for 30-60 minutes. We'll discuss what we've been working on briefly, and what we're planning on working on the next two weeks.
 
