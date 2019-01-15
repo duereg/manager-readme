@@ -5,7 +5,7 @@ If you're reading this it's likely that I am either your manager or a prospectiv
 
 # A Little About Me
 
-When I'm not coding or managing, I love to garden. I love plants and have a hard time not buying new ones when I see them. I've brought a bunch of biggish plants into the office to brighten up the space.
+When I'm not coding or managing, I love to garden. I love plants and have a hard time not buying plants when I see them. I've brought a bunch of biggish plants into the office to brighten up the space.
 
 I have a dog and used to volunteer at a dog shelter.
 
@@ -36,7 +36,7 @@ I’m here to help and support you, to set context for what you’re working on,
 
 ### My Responsibilities to the Company
  - Work with other managers to come up with a long-term vision for the team
- - Responsible for the long term health of all products in this area
+ - Responsible for the long term health of all products in our area
  - Represent our team to the rest of the organization
  - Manage cross project priorities
  - Attract, retain and grow high performing individuals
