@@ -1,5 +1,5 @@
 # Matt's Manager README
-Welcome to the team! I’m so glad you are here.
+Welcome to the team! I’m so glad you're here.
 
 If you're reading this it's likely that I am either your manager or a prospective coworker. One of the working relationships we need to define is ours.
 
