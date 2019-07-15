@@ -5,7 +5,7 @@ If you're reading this it's likely that I am either your manager or a prospectiv
 
 # A Little About Me
 
-When I'm not coding or managing, I love to garden. I love plants and have a hard time not buying plants when I see them. I've brought a bunch of biggish plants into the office to brighten up the space.
+When I'm not coding or managing, I love to garden. I love plants and have a hard time not buying plants when I see them. If our space doesn't have plants it in, I'll bring them in. I've brought a bunch of biggish plants into previous offices to brighten the space.
 
 I have a dog and used to volunteer at a dog shelter.
 
@@ -162,6 +162,8 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
     One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
 
     The best way for me to retain information is to read it. If you have something that is nuaunced and needs a detailed opinion, you'd be best served writing down your thoughts and emailing them to me. It's easy for me to miss details in a hallway conversation.
+    
+    A good way to structure writings is by leveraging [SCQA](https://www.harrisonmetal.com/library/storytelling-amp-presenting-1-thank-you-barbara-minto). 
 
  - Bring your friends
 
@@ -170,7 +172,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 ### My Calendar
 I go to a lot of meetings. My calendar is deliberately publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees are hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
-Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, send me a message, we don’t need to wait for our next scheduled 1:1.
+Need clarification on something? Blocked? I’d love to hear as soon as possible. Come by my desk, send me a message, it shouldn't to wait for our next scheduled 1:1.
 
 Feel free to put something in my calendar, don’t feel like you need to ask first.
 Is my calendar full? Send me a message and I’ll likely be able to move something around.
@@ -179,11 +181,11 @@ Is my calendar full? Send me a message and I’ll likely be able to move somethi
 ### Our Average Week
 Every morning we'll have a brief 5-10 minute standup where everyone will discuss what they've been working on, what they will work on, and anything that is blocking them.
 
-We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance and updates. Edit our 1:1 calendar invite to capture future topics for our 1:1s and to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump into the calendar invite. During 1:1s we will go through your agenda first and if time permits I will have some questions. These meetings are for you. Urgent matters should not wait for a 1:1.
+We’ll have a 1:1 every week to two weeks for at least 30 minutes. This meeting discusses topics of substance and updates. Edit our 1:1 notes to capture future topics for our 1:1s and to provide a handy historic record of what we’ve discussed. When you or I think of a topic, let's dump them into the 1:1 notes. During 1:1s we will go through your agenda first and if time permits I will have some questions. These meetings are for you. Urgent matters should not wait for a 1:1.
 
-We’ll have a team planner with your peers every two weeks for 30-60 minutes. We'll discuss what we've been working on briefly, and what we're planning on working on the next two weeks.
+We’ll have a team planner with your peers every week or two for 30-60 minutes. We'll discuss what we've been working on briefly, and what we're planning on working on for the next week or two.
 
-We'll also have a team retro every two weeks for about an hour, where we discuss what has and hasn't been working for us as a team. Every retro should have actionable items that we follow up on.
+We'll also have a team retro at least every two weeks for about an hour, where we discuss what has and hasn't been working for us as a team. Every retro should have actionable items that we follow up on.
 
 ### Scheduling Meetings
 If you schedule a meeting, please provide:
@@ -193,13 +195,15 @@ If you schedule a meeting, please provide:
 3) Any related documents, slidedecks, etc that will be used in the meeting
 
 ### Meeting Protocol
-Put away your phone. Only open your laptop if you're taking notes or running the meeting.
+Put away your phone. Only open your laptop if you're taking notes, reading relevant material, or running the meeting.
 
 If I am attending a meeting, I’d prefer starting on time. If it’s not clear to me why I am in a meeting, I will ask for clarification on my attendance.
 
 If you send me a presentation deck before a meeting, I will usually read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
 If a meeting completes its purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the purpose won’t be achieved in the allocated time, let’s end the meeting early and determine how to finish the meeting later.
+
+One of my pet peeves is when someone schedules a meeting before normal working hours and then is late for that meeting. Please don't do this. 
 
 # Miscellanous Things to Know
 When I ask you to do something that feels poorly defined you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
