@@ -14,7 +14,7 @@ I drink too much coffee. I love coffee.
 I like to cook but I'm a complete amateur. I make an OK breakfast. I lived in Australia for a bit and acquired a taste for Vegemite.
 
 # Overview
-This document is, and always will be, a work in progress. It’s meant to be documentation on me. As I change as examine my values, so will this document. 
+This document is, and always will be, a work in progress. It’s meant to be documentation on me. As I change and examine my values, so will this document. 
 
 Three reasons for this to exist:
  - The creation has helped me identify my [responsibilities](#responsibilities) and [values](#values)
