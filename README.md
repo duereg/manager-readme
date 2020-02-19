@@ -161,7 +161,7 @@ Life > work. Make the balance work. I take vacations. You should, too. We only g
 
     One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
 
-    The best way for me to retain information is to read it. If you have something that is nuaunced and needs a detailed opinion, you'd be best served writing down your thoughts and emailing them to me. It's easy for me to miss details in a hallway conversation.
+    The best way for me to retain information is to read it. If you have something that is nuaunced and needs a detailed opinion, you'd be best served writing down your thoughts and sending them to me. It's easy for me to miss details in a hallway conversation.
     
     A good way to structure writings is by leveraging [SCQA](https://www.harrisonmetal.com/library/storytelling-amp-presenting-1-thank-you-barbara-minto). 
 
