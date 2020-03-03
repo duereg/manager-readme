@@ -51,7 +51,7 @@ I’m here to help and support you, to set context for what you’re working on,
 ### Responsible & Dependable
  - Write code to live forever
  - Practice incrementalism; write small PR’s
- - Test everything; TDD, Unit, Integration, Acceptance
+ - Test everything; TDD, Unit, Integration, Acceptance, Load
  - Follow work all the way through. Be responsible for the quality of your code
  - Tooling > Diligence; Use Metrics & Logging; Evidence over Effort
  - A broken build is a production outage
