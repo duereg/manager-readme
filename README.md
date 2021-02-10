@@ -18,7 +18,7 @@ This document is, and always will be, a work in progress. It’s meant to be doc
 
 Three reasons for this to exist:
  - The creation has helped me identify my [responsibilities](./responsibilities.md) and [values](./values.md)
- - Hopefully this helps you understand me and help us [work together](./together.md)
+ - Hopefully this helps you understand me and helps us [work together](./together.md)
  - It captures what you can expect out of an average week [working here](./working.md)
 
 **Important**: *This is NOT meant as a replacement for getting to know each other. It's also not a set of excuses for bad behavior. I don't get to be a jerk because I warned you in advance.*
