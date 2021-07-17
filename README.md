@@ -7,7 +7,7 @@ If you're reading this it's likely that I am either your manager or a prospectiv
 
 When I'm not coding or managing, I love to garden. I love plants and have a hard time not buying plants when I see them. If our space doesn't have plants it in, I'll bring them in. I've brought a bunch of biggish plants into previous offices to brighten the space.
 
-I have two dogs and used to volunteer at a dog shelter.
+I have three dogs and used to volunteer at a dog shelter.
 
 I drink too much coffee. I love coffee. I've taken classes on espresso brewing and own a semi-fancy espresso machine.
 
