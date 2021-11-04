@@ -29,7 +29,7 @@ This time is useful to track progress towards your career goals and make sure we
 ### Scheduling Meetings
 If you schedule a meeting, please provide:
 
-1) A hangout link or similar to the meeting for remote callers
+1) A zoom link or similar to the meeting for remote callers
 2) An agenda of what we're talking about
 3) Any related documents, slidedecks, etc that will be used in the meeting
 
