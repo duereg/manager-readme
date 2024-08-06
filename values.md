@@ -49,7 +49,7 @@
 ### Work/Life Balance
 Feel free to message me at any time. I might not respond immediately but I appreciate the communication.
 
-I do not expect that you are going to work on the weekend. I might email or slack on weekends, but it can always wait until work begins for you on Monday.
+I do not expect that you are going to work on the weekend. I try my best to never message folks out of normal working hours, but if I do it can always wait until work begins for you. 
 
 Life > work. Make the balance work. I take vacations. You should, too. We only get one life. Don’t burn out. Take time off.
 
