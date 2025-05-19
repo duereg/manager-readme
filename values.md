@@ -14,7 +14,8 @@
  - A broken build is a production outage
 
 ### Resourceful
- - Google first, ask questions, don’t reinvent the wheel. Research problems before starting
+ - Ask the internet questions, don’t reinvent the wheel. Research problems before starting
+ - AI Tools are great, but they can be wrong, and they can lead to a large C&P problem. Be thoughtful with their use. 
  - Be efficient with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
    - Nothing is precious. Especially code I wrote
