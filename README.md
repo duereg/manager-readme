@@ -10,11 +10,11 @@ When I'm not coding or managing, I love to garden. I love plants and have a hard
 I have two dogs and used to volunteer at a dog shelter.
 
 I drink too much coffee. I love coffee. I've taken classes on espresso brewing and own a semi-fancy espresso machine.
-
+<!-- Optional: Consider adding a short, humorous anecdote about your coffee enthusiasm or plant collection here. For example, 'I once tried to roast my own coffee beans. Let's just say the smoke alarm got a good workout, and I stick to buying from professionals now.' or 'My office plants sometimes compete for desk space – may the best fern win.' -->
 I like to cook but I'm adequate at best. I make an OK breakfast. I lived in Australia for a bit and acquired a taste for Vegemite.
 
 # Overview
-This document is, and always will be, a work in progress. It’s meant to be documentation on me. As I change and examine my values, so will this document.
+This document is a living document and will evolve as I do. It’s meant to be documentation on me. As I change and examine my values, so will this document.
 
 Three reasons for this to exist:
  - The creation has helped me identify my [responsibilities](./responsibilities.md) and [values](./values.md)

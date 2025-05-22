@@ -41,7 +41,7 @@ If I am attending a meeting, I’d prefer starting on time. If it’s not clear 
 If you send me a presentation deck before a meeting, I will usually read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
 If a meeting completes its purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the purpose won’t be achieved in the allocated time, let’s end the meeting early and determine how to finish the meeting later.
-
+<!-- TODO: Consider adding a point about declining meetings if attendance isn't necessary or if the agenda isn't clear, to empower team members to manage their time. e.g., "Feel empowered to decline meetings if your attendance isn't critical or if the agenda is unclear and your attempts to clarify go unanswered." -->
 One of my pet peeves is when someone schedules a meeting before normal working hours and then is late for that meeting. Please don't do this.
 
 # Miscellanous Things to Know
@@ -50,6 +50,7 @@ When I ask you to do something that feels poorly defined you should ask me for b
 My job is a series of interruptions during the day. If I'm busy and folks ask me questions, I usually say something like, "I need five minutes to wrap this up." If I really need alone time, I'll find a beanbag, sit in a café, or book a room to get something done. Otherwise I try to be as available as possible when I'm at my desk. My job is to help you succeed, and your output is more valuable than mine.
 
 ### Other Links
+ - Return to the [main README](./README.md)
  - This document was my attempt to identify my [responsibilities](./responsibilities.md) as a manager
  - You can review some of the [values](./values.md) I think are important
  - Hopefully this helps you understand me and help us [work together](./together.md)

@@ -19,6 +19,7 @@ My management philosophy is one of [servant leadership](https://en.wikipedia.org
  - Attract, retain and grow high performing individuals
 
 ### Other Links
+ - Return to the [main README](./README.md)
  - You can review some of the [values](./values.md) I think are important
  - Hopefully this helps you understand me and help us [work together](./together.md)
  - I've tried to document what you can expect out of an average week [working here](./working.md)

@@ -64,13 +64,23 @@
 
     One of my jobs is to provide context. Are you missing some? Let me know and I’ll fill you in or go find out.
 
-    The best way for me to retain information is to read it. If you have something that is nuaunced and needs a detailed opinion, you'd be best served writing down your thoughts and sending them to me. It's easy for me to miss details in a hallway conversation.
+    The best way for me to retain information is to read it. If you have something that is nuanced and needs a detailed opinion, you'd be best served writing down your thoughts and sending them to me. It's easy for me to miss details in a hallway conversation.
 
     A good way to structure writings is by leveraging [SCQA](https://www.harrisonmetal.com/library/storytelling-amp-presenting-1-thank-you-barbara-minto).
 
  - Bring your friends
 
     We’re growing the team and you know who you want to work with.
+
+### How I Give Feedback
+<!-- TODO: Describe your approach to giving feedback. For example, do you prefer to give it directly, in 1:1s, written, or verbally? What's your philosophy on constructive criticism? -->
+
+### Preferred Communication Channels
+<!-- TODO: Specify your preferred communication methods. For example:
+    - Quick questions: Slack DM
+    - Detailed discussions: Schedule a brief meeting or send an email with a document.
+    - Urgent issues: Slack DM or come by my desk.
+    Consider mentioning if you prefer threads in Slack, or if email is better for documentation purposes. -->
 
 ### My Calendar
 I go to a lot of meetings. My calendar is deliberately publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees are hidden from your view. The vast majority of my meetings are neither private nor confidential.
@@ -81,6 +91,7 @@ Feel free to put something in my calendar, don’t feel like you need to ask fir
 Is my calendar full? Send me a message and I’ll likely be able to move something around.
 
 ### Other Links
+ - Return to the [main README](./README.md)
  - This document was my attempt to identify my [responsibilities](./responsibilities.md) as a manager
  - You can review some of the [values](./values.md) I think are important
  - I've tried to document what you can expect out of an average week [working here](./working.md)

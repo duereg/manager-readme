@@ -15,7 +15,7 @@
 
 ### Resourceful
  - Ask the internet questions, don’t reinvent the wheel. Research problems before starting
- - AI Tools are great, but they can be wrong, and they can lead to a large C&P problem. Be thoughtful with their use. 
+ - AI Tools are great, but they can be wrong, and they can lead to a large C&P problem. Be thoughtful with their use and always verify their output, especially for code or factual information.
  - Be efficient with your time so you get things done
  - Be creative, don’t be boxed in by previous decisions
    - Nothing is precious. Especially code I wrote
@@ -55,6 +55,7 @@ I do not expect that you are going to work on the weekend. I try my best to neve
 Life > work. Make the balance work. I take vacations. You should, too. We only get one life. Don’t burn out. Take time off.
 
 ### Other Links
+ - Return to the [main README](./README.md)
  - This document was my attempt to identify my [responsibilities](./responsibilities.md) as a manager
  - Hopefully this helps you understand me and help us [work together](./together.md)
  - I've tried to document what you can expect out of an average week [working here](./working.md)
